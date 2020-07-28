@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Uni Frota</string>
+    <string name="app_logo_desc">Logo de um carro mustang desenhado</string>
+    <string name="alugado">Alugado</string>
+    <string name="fab_desc">Adicionar um novo carro</string>
+    <string name="fabricante">Fabricante</string>
+    <string name="modelo">Modelo</string>
+    <string name="placa">Placa</string>
+    <string name="cor">Cor</string>
+    <string name="ano">Ano</string>
+    <string name="cadastrarCarro">Cadastrar carro</string>
+    <string name="campoVazio">O campo não pode ficar vazio!</string>
+    <string name="carroCadastrado">Carro cadastrado!</string>
+</resources>
